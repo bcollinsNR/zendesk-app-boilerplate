@@ -3,7 +3,7 @@
 
 ### The following information is displayed:
 
-* Ticket response time
+* Ticket response type
 * Ticket comment text
 
 
