@@ -1,12 +1,12 @@
 {
-  "name": "test app",
+  "name": "Boilerplate Zendesk App",
   "author": {
-    "name": "Brian Collins",
-    "email": "bcollins@newrelic.com"
+    "name": "Tik-Tok",
+    "email": "tiktok@newrelic.com"
   },
   "defaultLocale": "en",
   "private": true,
   "location": ["ticket_sidebar", "new_ticket_sidebar"],
-  "version": "1.0",
+  "version": "0.1",
   "frameworkVersion": "1.0"
 }

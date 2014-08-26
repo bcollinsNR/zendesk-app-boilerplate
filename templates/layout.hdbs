@@ -1,7 +1,8 @@
 <header>
-  <span class="logo"/>
-  <h3>{{setting "name"}}</h3>
+  <h3>{{setting "name"}}</h3><span class="logo"/>
 </header>
+
+<section data-main/>
+
 <footer>
- by bcollins@newrelic.com 
 </footer>
